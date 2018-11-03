@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="class3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\core\;CMake Files\util\;CMake Files\features\;CMake Files\sfm\;CMake Files\mvs\;CMake Files\examples\;CMake Files\examples\task1\;CMake Files\examples\task2\;CMake Files\examples\task3\;CMake Files\examples\task4\;CMake Files\examples\task5\;CMake Files\examples\task6\;CMake Files\surface\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_lm_optimize">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_lm_optimize" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_lm_optimize"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_lm_optimize/fast">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_lm_optimize" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_lm_optimize/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_triangle">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_triangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_triangle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_triangle/fast">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_triangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_triangle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_p3p">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_p3p" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_p3p"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_p3p/fast">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_p3p" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_p3p/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_jacobian">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_jacobian" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_jacobian"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_jacobian/fast">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_jacobian" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_jacobian/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_ba">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_ba" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_ba"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3_test_ba/fast">
+				<Option output="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/task3_test_ba" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/../.."/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 task3_test_ba/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shang/CLionProjects/ImageBasedModellingEduV1.0/cmake-build-debug/examples/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/class3_test_bundle_adjustment.cc">
+			<Option target="task3_test_ba"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/class3_test_jacobian.cc">
+			<Option target="task3_test_jacobian"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/class3_test_lm_optimize.cc">
+			<Option target="task3_test_lm_optimize"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/class3_test_p3p.cc">
+			<Option target="task3_test_p3p"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/class3_test_triangle.cc">
+			<Option target="task3_test_triangle"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/core/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\core\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/util/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\util\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/features/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\features\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/sfm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\sfm\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/mvs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\mvs\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\task1\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\task2\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\task3\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\task4\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\task5\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/examples/task6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\task6\"/>
+		</Unit>
+		<Unit filename="/home/shang/CLionProjects/ImageBasedModellingEduV1.0/surface/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\surface\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -16,7 +16,7 @@
 #include <cerrno>
 
 #ifndef MVE_NO_PNG_SUPPORT
-#   include <png.h>
+//#   include <png.h>
 #endif
 
 #ifndef MVE_NO_JPEG_SUPPORT
@@ -30,6 +30,8 @@
 #ifndef MVE_NO_TIFF_SUPPORT
 #   include <tiff.h>
 #   include <tiffio.h>
+#include <png.h>
+
 #endif
 
 #include "math/algo.h"

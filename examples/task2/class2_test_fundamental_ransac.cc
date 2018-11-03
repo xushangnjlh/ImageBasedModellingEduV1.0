@@ -14,6 +14,7 @@
 #include <set>
 #include <util/system.h>
 #include <sfm/ransac_fundamental.h>
+#include <assert.h>
 #include "math/functions.h"
 #include "sfm/fundamental.h"
 #include "sfm/correspondence.h"
